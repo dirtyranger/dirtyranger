@@ -2,7 +2,7 @@
 - 👀 I’m interested in basic home automation
 - 🌱 I’m currently learning Home Assistant
 - 💞️ I’m looking to collaborate on Anything, although I'm a newbie
-- 📫 How to reach me gary@trinder.com
+- 📫 How to reach me ...
 - 😄 Pronouns: He
 - ⚡ Fun fact: Fav books growing up Hitch Hikers Guide
 
